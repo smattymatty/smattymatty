@@ -1,6 +1,6 @@
 # Mathew Storm
 
-**Not the basketball player.** Software developer, philosophical author, and unraveling recursive absurdism one paradox at a time.
+**Not the basketball player.** Software developer, Solutions architect, Open Source Enthusiast & Educator.
 
 ## Philosophy
 
