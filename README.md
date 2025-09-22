@@ -9,7 +9,7 @@ I'm exploring **[Recursive Absurdism](https://mathewstorm.ca/philo/the-recursive
 ## Engineering
 
 - **[Django Spellbook](https://django-spellbook.org/)** - Transform markdown into Django apps with magical simplicity
-- **[80-20 Human-in-the-Loop](https://mathewstorm.ca/projects/80-20-hitl)** - Where humans lead with 20% effort, AI amplifies with 80% power
+- **[80-20 Human-in-the-Loop]([https://mathewstorm.ca/projects/80-20-hitl](https://github.com/80-20-Human-In-The-Loop/Community/wiki))** - Where humans lead with 20% effort, AI amplifies with 80% power
 - **Tech Philosophy** - Engineering meets existentialism at the command line. My code comments are mini-essays. My documentation teaches why, not just how.
 
 ## Current Focus
