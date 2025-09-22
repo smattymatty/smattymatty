@@ -4,7 +4,7 @@
 
 ## Philosophy
 
-I'm exploring **[Recursive Absurdism](https://mathewstorm.ca/philo/the-recursive-absurd/)** - the philosophical framework for understanding how we build systems that recursively build us, creating new existential loops in our digital age. Every line of code is a moral choice. Every pull request embodies values. Every mentorship session transmits not just technical knowledge but philosophical understanding.
+Every line of code is a moral choice. Every pull request embodies values. Every mentorship session transmits not just technical knowledge but philosophical understanding.
 
 ## Engineering
 
