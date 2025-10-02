@@ -10,7 +10,6 @@ Every line of code is a moral choice. Every pull request embodies values. Every 
 
 - **[Django Spellbook](https://django-spellbook.org/)** - Transform markdown into Django apps with magical simplicity
 - **[80-20 Human-in-the-Loop](https://github.com/80-20-Human-In-The-Loop/Community/wiki)** - Where humans lead with 20% effort, AI amplifies with 80% power
-- **Tech Philosophy** - Engineering meets existentialism at the command line. My code comments are mini-essays. My documentation teaches why, not just how.
 
 ## Current Focus
 
