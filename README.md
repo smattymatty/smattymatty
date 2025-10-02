@@ -28,4 +28,3 @@ Every line of code is a moral choice. Every pull request embodies values. Every 
 - **Email:** mathewstormdev@gmail.com
 
 ---
-*"We no longer merely discover absurdity; we architect it into recursive systems that question their own questioning."* - Mathew Storm
