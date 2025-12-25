@@ -17,8 +17,6 @@ Every line of code is a moral choice. Every pull request embodies values. Every 
 - Starting [AI2U.ca](https://ai2u.ca) / [U2AI.ca](https://u2ai.ca) - My mission is to keep & respect human agency while using AI tools. 
 - Developing tools that embrace our humanity while remaining useful
 - Mentoring developers to think philosophically about their craft (because great systems start with great philosophy)
-- Writing "The Labyrinth of Sisyphus" - recursive philosophy for the AI age - [Read the First Chapter](https://mathewstorm.ca/philo/book/Chapter%201%20-%20The%20Arrival/)
-
 
 ## Find Me
 
