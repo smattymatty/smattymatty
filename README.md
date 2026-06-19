@@ -28,7 +28,7 @@ Most of my work has moved to Forgejo, open source forges I run myself. Centraliz
 
 ## At the core
 
-Anti-extraction, anti-centralization. Refuse the rent-seekers, refuse the single point of control.
+Anti-extraction, anti-centralization. Refuse the single point of control.
 
 Funny thing: my two favorite OSS projects (Garage, PeerTube), my favorite philosopher (Camus), and my favorite revolution are all French. Refusing concentrated power is, apparently, a French tradition.
 
