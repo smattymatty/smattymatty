@@ -21,7 +21,3 @@ Most of my work has moved to Forgejo, open source forges I run myself. Centraliz
 - [git.stormdevelopments.ca](https://git.stormdevelopments.ca) - Storm's forge
 - [gitforge.ca/Mathew](https://gitforge.ca/Mathew) - a public Canadian forge. A small Codeberg, if it grows up.
 - [git.deuxfleurs.fr/smattymatty](https://git.deuxfleurs.fr/smattymatty?tab=activity) - where my Garage contributions land
-
-## At the core
-
-Anti-extraction, anti-centralization. Refuse the single point of control.
