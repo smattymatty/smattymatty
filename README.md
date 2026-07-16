@@ -2,7 +2,11 @@
 
 ### Open source engineer, writer, operator.
 
-Building open infrastructure in Canada. I write about digital sovereignty, the systems we live in, and the reasons to keep building.
+Full-stack & cloud infrastructure engineer. 
+
+Python/Django, TypeScript/React/Svelte, Rust, Docker.
+
+Building open, self-hosted cloud infrastructure in Canada.
 
 [mathewstorm.ca](https://mathewstorm.ca)
 
