@@ -8,7 +8,11 @@ Python/Django, TypeScript/React/Svelte, Rust, Docker.
 
 Building open, self-hosted cloud infrastructure in Canada.
 
-[mathewstorm.ca](https://mathewstorm.ca)
+### Personal Site - Blog & Portfolio
+
+[mathewstorm.ca](https://mathewstorm.ca) -- [Github Source](https://github.com/smattymatty/my-rust-spellbook-site)
+
+My own custom static site generator, written in rust, hosted on Storm Buckets.
 
 ### My Own Pypi Packages being used in Production
 
