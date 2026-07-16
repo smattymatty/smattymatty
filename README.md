@@ -14,10 +14,9 @@ Canadian cloud infrastructure, built on open source and operated by us.
 
 **[Storm Pulse](https://git.stormdevelopments.ca/official-public/storm-pulse)** - the open source, security-first agent that runs the servers Buckets sits on. Outbound-only, mTLS, HMAC-signed commands, zero listening ports. AGPLv3.
 
-## You found me on GitHub. I don't live here.
+## You found me on GitHub.
 
-Most of my work has moved to Forgejo, open source forges I run myself. Centralizing my code on a platform I can't leave was always the thing I was arguing against.
+Most of my work has moved to Forgejo, open source forges.
 
 - [git.stormdevelopments.ca](https://git.stormdevelopments.ca) - Storm's forge
-- [gitforge.ca/Mathew](https://gitforge.ca/Mathew) - a public Canadian forge. A small Codeberg, if it grows up.
 - [git.deuxfleurs.fr/smattymatty](https://git.deuxfleurs.fr/smattymatty?tab=activity) - where my Garage contributions land
