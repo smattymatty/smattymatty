@@ -19,8 +19,6 @@ My own custom static site generator, written in rust, hosted on Storm Buckets.
 - [Django Spellbook](https://pypi.org/project/django-spellbook/)  - Markdown CMS with spellblock syntax
 - [Django Mercury Performance](https://pypi.org/project/django-mercury-performance/)  - Simple, powerful performance monitoring for Django tests
 
-- [Gooseloop](https://pypi.org/project/gooseloop/) - A Goose-powered harness for LLM agents running structured long-running loops
-
 - [Storm Pulse Agent](https://pypi.org/project/storm-pulse-agent/) - Secure server management agent for Storm Developments. Connects outbound to a Django dashboard over WebSocket with mTLS, pushes system metrics, and executes whitelisted deploy commands. Zero listening ports.
 
 
